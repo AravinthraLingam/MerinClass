@@ -23,4 +23,8 @@ public class Sample1 {
 		System.out.println("Machines");
 
 	}
+	private void it() {
+		System.out.println("Technology");
+
+	}
 }
