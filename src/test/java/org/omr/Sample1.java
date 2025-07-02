@@ -11,4 +11,16 @@ public class Sample1 {
 	private void rcb() {
 		System.out.println("Banglore");
 	}
+	private void civil() {
+		System.out.println("Building");
+
+	}
+	private void cse() {
+		System.out.println("Computer");
+
+	}
+	private void mech() {
+		System.out.println("Machines");
+
+	}
 }
