@@ -27,4 +27,7 @@ public class Sample1 {
 		System.out.println("Technology");
 
 	}
+	private void ai() {
+		System.out.println("Artificial Intelligence");
+	}
 }
